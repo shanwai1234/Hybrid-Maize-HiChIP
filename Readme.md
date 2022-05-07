@@ -1,1 +1,1 @@
-This repository deposited codes and relative outputs from the hybrid maize HiChIP project. 
+This repository deposited codes and relevant outputs from the hybrid maize HiChIP project. 
